@@ -17,3 +17,5 @@ npx sb init
 ```
 
 It detected the `vite` and set the builder as `@storybook/builder-vite`.
+
+Next, I passed the CSS file to SASS file, and installed the `sass` package. Restarted **storybook** and both modules could work together.
