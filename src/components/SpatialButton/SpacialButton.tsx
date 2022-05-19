@@ -1,6 +1,6 @@
 import React from "react";
 
-import './SpatialButton.css';
+import './SpatialButton.sass';
 
 export interface SpatialButtonProps {
   value: string,
